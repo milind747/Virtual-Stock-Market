@@ -1,0 +1,30 @@
+SMAP
+usviewfeed_jsp.java
+JSP
+*S JSP
+*F
++ 0 usviewfeed.jsp
+usviewfeed.jsp
++ 1 usheader.jsp
+usheader.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+1,48:53
+1#1,33:100
+34:133,2
+35,109:135
+48#0,212:244
+260,4:457
+263,12:461
+275:473,3
+276,2:476
+278,3:478,3
+281,3:487
+283,4:490
+286,7:494
+328,5:500
+1#2,3:504
+13,4:507
+332#0,77:511
+*E
